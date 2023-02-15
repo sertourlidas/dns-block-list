@@ -16,3 +16,7 @@ sentry.io
 o1313669.ingest.sentry.io
 splunkcloud.com
 http-inputs-itv.splunkcloud.com
+bidi.net.uk
+b4-eqsl-bbc.live.bidi.net.uk
+gstatic.com
+www.gstatic.com
